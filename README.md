@@ -41,7 +41,7 @@ Always review the release notes and supported Windows versions before running a 
 
 Join the XIIX Optimizer community on Discord to ask questions, share feedback, suggest features, and follow development.
 
-**Discord:** [Join the XIIX Optimizer Community](https://discord.gg/r8VSkaUK2)
+**Discord:** [Join the XIIX Optimizer Community](https://discord.gg/U3NbwCtjVV)
 
 A TikTok account for development updates, PC optimization tips, and project demonstrations will be announced here in the future.
 
