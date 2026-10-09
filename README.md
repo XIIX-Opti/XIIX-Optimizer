@@ -1,5 +1,4 @@
-# XIIX-Optimizer
-# XIIX Optimizer 
+# XIIX-Optimizer 
 
 **Optimize smarter. Play smoother. Get more from your PC.**
 
