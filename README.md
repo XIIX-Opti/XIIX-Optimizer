@@ -63,3 +63,5 @@ XIIX Optimizer is under development. Optimization results depend on hardware, so
 XIIX Optimizer is being built to help users get more out of the computers they already own.
 
 **Optimize smarter. Get more from your PC.**
+<img width="1983" height="793" alt="Banner futurista XIIX Optimizer" src="https://github.com/user-attachments/assets/cd817b37-e8c3-41c8-851a-e9dfa48015df" />
+
